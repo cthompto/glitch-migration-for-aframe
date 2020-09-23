@@ -13,7 +13,7 @@ Steps:
     
     b. Note the web address.
     
-3. Upload the assests used to your new GitHub repo.
+3. Upload the assets used to your new GitHub repo.
 
     a. Upload them to the root.
     
@@ -23,7 +23,7 @@ Steps:
     
 4. Create a new index.html file in your GitHub repo and paste your code in full from Glitch.com.
 
-5. Edit the code the addresses for the assests so they allign with the assests housed on Github.
+5. Edit the code the addresses for the assets so they align with the assets housed on Github.
 
     a. You are looking for the "<asset-item>" element.
     
